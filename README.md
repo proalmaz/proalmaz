@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [C++ modules](https://github.com/proalmaz/CPP_Modules)
+- 🔭 I’m currently working on [C++ modules](https://github.com/proalmaz/ft_irc.git)
 - 🌱 I’m currently learning C++
 # 📫 How to reach me: 
 
