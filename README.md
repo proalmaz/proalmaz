@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [ft_IRC](https://github.com/proalmaz/ft_irc.git)
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and network
 # 📫 How to reach me: 
 
 [<img align="left" alt="chudopak | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />][telegram]
