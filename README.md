@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [ft_IRC](https://github.com/proalmaz/ft_irc.git)
+- 🔭 I’m currently working on [proxy-server](https://github.com/proalmaz/proxy-server.git)
 - 🌱 I’m currently learning C++ and Network && System administration
 # 📫 How to reach me: 
 
