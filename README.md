@@ -5,7 +5,7 @@
 ### I code in:
 <p>
   <!--  Python  -->
-  <a href="https://github.com/chudopak?tab=repositories&q=&type=&language=swift">
+  <a href="https://github.com/chudopak?tab=repositories&q=&type=&language=python">
      <img alt="Swift" src="https://img.shields.io/badge/-Python-blue"/>
   </a>
   
