@@ -11,7 +11,7 @@
   
   <!--  Python  -->
   <a href="https://github.com/proalmaz?tab=repositories&q=&type=&language=python">
-     <img alt="Swift" src="https://img.shields.io/badge/-Python-blue?style=for-the-badge"/>
+     <img alt="Swift" src="https://img.shields.io/badge/python-%23FA7343.svg?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
