@@ -4,14 +4,14 @@
 
 ### I code in:
 <p>
-  <!--  Python  -->
-  <a href="https://github.com/proalmaz?tab=repositories&q=&type=&language=python">
-     <img alt="Swift" src="https://img.shields.io/badge/-Python-blue"/>
-  </a>
-  
   <!--  C++  -->
   <a href="https://github.com/proalmaz?tab=repositories&q=&type=&language=c%2B%2B" style="cursor: default">
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </a>
+  
+  <!--  Python  -->
+  <a href="https://github.com/proalmaz?tab=repositories&q=&type=&language=python">
+     <img alt="Swift" src="https://img.shields.io/badge/-Python-blue"/>
   </a>
 </p>
 
