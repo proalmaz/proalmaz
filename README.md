@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [proxy-server](https://github.com/proalmaz/proxy-server.git)
-- 🌱 I’m currently learning C++ and Network && System administration
+- 🔭 I now work for a company that protects data in the autotesting team.
+- 🌱 I’m currently learning Python
 # 📫 How to reach me: 
 
-https://t.me/proalmaz
-[telegram](https://t.me/proalmaz)
+
+![telegram](https://t.me/proalmaz)
 
 <!--
 **proalmaz/proalmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
