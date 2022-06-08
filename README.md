@@ -6,7 +6,7 @@
 <p>
   <!--  Python  -->
   <a href="https://github.com/chudopak?tab=repositories&q=&type=&language=swift">
-     <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+     <img alt="Swift" src="https://img.shields.io/badge/-Python-blue"/>
   </a>
   
   <!--  C++  -->
