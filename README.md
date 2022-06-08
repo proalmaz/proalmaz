@@ -3,6 +3,8 @@
 - 🔭 I now work for a company that protects data in the autotesting team.
 - 🌱 I’m currently learning Python
 # 📫 How to reach me: 
+\
+[<img align="left" alt="proalmaz | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
 
 [telegram](https://t.me/proalmaz)
 
