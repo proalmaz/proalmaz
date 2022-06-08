@@ -6,7 +6,7 @@
 \
 [<img align="left" alt="proalmaz | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
 
-[telegram](https://t.me/proalmaz)
+[telegram]: https://t.me/proalmaz
 
 <!--
 **proalmaz/proalmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
